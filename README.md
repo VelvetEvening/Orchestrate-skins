@@ -4,6 +4,8 @@
 
 首款皮肤「曼巴紫 × 冠军金」的配色和侧栏插画源自 [Orchestrate PR #4](https://github.com/VelvetEvening/Orchestrate/pull/4)。
 
+「冰湖五号 × 爱德华兹」取色自明尼苏达森林狼 2024–25 赛季城市版球衣。冰白和湖蓝构成工作区，炭黑用于主按钮。侧栏插画将爱德华兹的 5 号球衣、灰狼和冰湖融在一起。[球衣设计说明](https://www.nba.com/timberwolves/news/timberwolves-2024-25-city-edition-uniform-court-photos-games-giveaways)
+
 ## 制作皮肤
 
 1. 参考[紫金主题包](themes/mamba/theme.json)，新建 `themes/<id>/theme.json`。保留格式版本，填写 ID 和名称，选择 `light` 或 `dark` 作为基础配色。
